@@ -11,4 +11,4 @@ spec:
       targetPort: 6379
   selector:
       name: redis-service
-      app: demo-voting-app
+      app: demo-app
