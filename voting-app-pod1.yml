@@ -4,7 +4,7 @@ metadata:
   name: voting-app
   labels:
     name: vote-voting-app
-    app: demo-voting-app
+    app: demo-app
 spec:
   containers:
     - name: vote-voting-app

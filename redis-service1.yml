@@ -4,7 +4,7 @@ metadata:
   name: redis
   labels:
     name: redis-service
-    app: demo-voting-app
+    app: demo-app
 spec:
   ports:
     - port: 6379
